@@ -1,0 +1,44 @@
+[
+  {
+    "University": "Colombo",
+    "Country": "Sri Lanka",
+    "Title": "B.A",
+    "Degree": "Media",
+    "YearOfGraduation": "1999"
+  },
+  {
+    "University": "Auckland",
+    "Country": "New Zealand",
+    "Title": "B.Sc",
+    "Degree": "Science",
+    "YearOfGraduation": "2003"
+  },
+  {
+    "University": "Melbourne",
+    "Country": "Australia",
+    "Title": "PHD",
+    "Degree": "Philosophy",
+    "YearOfGraduation": "2008"
+  },
+  {
+    "University": "Melbourne@#%",
+    "Country": "Australia",
+    "Title": "PHD",
+    "Degree": "Philosophy!&*$",
+    "YearOfGraduation": "2008"
+  },
+  {
+    "University": "QWERTYUIOPASDFGHJKLZXCVBNM1234567890QWERTYUIOPASDFGHJKLZXCVBNM1234567890QWERTYUIOPASDFGHJKLZXCVBNM1234567890QWERTYUIOPASDFGHJKLZXCVBNM12",
+    "Country": "Australia",
+    "Title": "PHD",
+    "Degree": "QWERTYUIOPASDFGHJKLZXCVBNM1234567890QWERTYUIOPASDFGHJKLZXCVBNM1234567890QWERTYUIOPASDFGHJKLZXCVBNM1234567890QWERTYUIOPASDFGHJKLZXCVBNM12",
+    "YearOfGraduation": "2008"
+  },
+  {
+    "University": "Colombo",
+    "Country": "Sri Lanka",
+    "Title": "B.Sc",
+    "Degree": "Physics",
+    "YearOfGraduation": "1999"
+  }
+]
